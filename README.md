@@ -5,7 +5,7 @@ INSTRUÇÕES:
 
 - Pasta Backend: onde está o projeto desenvolvido usando o Flask que faz o CRUD salvando os dados no banco.
 
-- Entrar na pasta do projeto e criar o ambiente virtual: 
+- Entrar na pasta backend e criar o ambiente virtual: 
 	- Windows: `python -m venv .venv`
 	- Linux: `python3 -m venv .venv`
 
