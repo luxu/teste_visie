@@ -21,8 +21,12 @@ INSTRUÇÕES:
 - rodar a aplicação:
 	- `python app.py`
 
+Variáveis de Ambiente:
+- renomeie o aquivo `env.sample` para `.env` e coloque as configurações necessárias.
+
 
 - Pasta Frontend: onde está o projeto desenvolvido em Vuejs.
 
 - `yarn install` -> Instala a aplicação
 - `yarn serve` -> Roda a aplicação
+
