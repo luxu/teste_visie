@@ -3,7 +3,7 @@
 Projeto divido em duas partes:
 INSTRUÇÕES:
 
-- Pasta Backend: onde está o projeto desenvolvido usando o Flask que faz o CRUD salvando os dados no banco.
+## Pasta Backend: onde está o projeto desenvolvido usando o Flask que faz o CRUD salvando os dados no banco.
 
 - Entrar na pasta backend e criar o ambiente virtual: 
 	- Windows: `python -m venv .venv`
@@ -18,14 +18,14 @@ INSTRUÇÕES:
 
 - instalar as dependências:
 	- `pip install -r requirements.txt`
-- rodar a aplicação:
-	- `python app.py`
 
 Variáveis de Ambiente:
 - renomeie o aquivo `env.sample` para `.env` e coloque as configurações necessárias.
 
+- rodar a aplicação:
+	- `python app.py`
 
-- Pasta Frontend: onde está o projeto desenvolvido em Vuejs.
+## Pasta Frontend: onde está o projeto desenvolvido em Vuejs.
 
 - `yarn install` -> Instala a aplicação
 - `yarn serve` -> Roda a aplicação
