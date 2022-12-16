@@ -11,7 +11,7 @@ INSTRUÇÕES:
 
 - entre nela
 	- Windows: `.venv/Scripts/activate`
-	- Linux: `source .venv/Bin/activate`
+	- Linux: `source .venv/bin/activate`
 
 - atualizar o pip:
 	- `python -m pip install --upgrade pip`
